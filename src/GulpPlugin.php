@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the %%Project%% package.
+ * This file is part of the puli/gulp-plugin package.
  *
  * (c) Bernhard Schussek <bschussek@gmail.com>
  *
