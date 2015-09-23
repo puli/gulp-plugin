@@ -2,8 +2,8 @@ The Puli Gulp Plugin
 ====================
 
 [![Build Status](https://travis-ci.org/puli/gulp-plugin.svg?branch=master)](https://travis-ci.org/puli/gulp-plugin)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/puli/gulp-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/puli/gulp-plugin/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/1d34f3b8-aafe-49c9-8eb8-df97ac8a1ba3/mini.png)](https://insight.sensiolabs.com/projects/1d34f3b8-aafe-49c9-8eb8-df97ac8a1ba3)
+[![Build Status](https://scrutinizer-ci.com/g/puli/gulp-plugin/badges/build.png?b=master)](https://scrutinizer-ci.com/g/puli/gulp-plugin/build-status/master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/e80e1cf4-3f27-4307-aa88-efb74cc8fed5/mini.png)](https://insight.sensiolabs.com/projects/e80e1cf4-3f27-4307-aa88-efb74cc8fed5)
 [![Latest Stable Version](https://poser.pugx.org/puli/gulp-plugin/v/stable.svg)](https://packagist.org/packages/puli/gulp-plugin)
 [![Total Downloads](https://poser.pugx.org/puli/gulp-plugin/downloads.svg)](https://packagist.org/packages/puli/gulp-plugin)
 [![Dependency Status](https://www.versioneye.com/php/puli:gulp-plugin/1.0.0/badge.svg)](https://www.versioneye.com/php/puli:gulp-plugin/1.0.0)
